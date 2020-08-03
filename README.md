@@ -1,2 +1,3 @@
-# cnt
-# cnt
+# maven-project
+
+Simple Maven Project
